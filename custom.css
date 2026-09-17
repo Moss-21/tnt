@@ -1,9 +1,9 @@
 :root {
   /* Light theme */
-  --color-l-background: #2E383C;
-  --color-l-foreground: #D3C6AA;
+  --color-l-background: #FFFBEF;
+  --color-l-foreground: #5C6A72;
 
   /* Dark theme */
-  --color-d-background: #0f0f0f;
-  --color-d-foreground: #d1d5db;
+  --color-d-background: #2E383C;
+  --color-d-foreground: #D3C6AA;
 }
