@@ -91,3 +91,48 @@
     align-items: center;
     color: var(--color-d-accent);
   }
+
+/* idk what this is but its got the bullet points */
+.prose {
+    --tw-prose-body: var(--color-foreground-600);
+    --tw-prose-headings: var(--color-foreground-800);
+    --tw-prose-lead: var(--color-foreground-600);
+    --tw-prose-links: var(--color-foreground-600);
+    --tw-prose-bold: var(--color-foreground-800);
+    --tw-prose-counters: var(--color-foreground-400);
+    --tw-prose-bullets: var(--color-d-accent);
+    --tw-prose-hr: var(--color-foreground-100);
+    --tw-prose-quotes: var(--color-foreground-400);
+    --tw-prose-quote-borders: var(--color-foreground-50);
+    --tw-prose-captions: var(--color-foreground-300);
+    --tw-prose-kbd: var(--color-foreground-800);
+    --tw-prose-kbd-shadows: var(--color-foreground-800);
+    --tw-prose-code: var(--color-foreground-800);
+    --tw-prose-pre-code: var(--color-foreground-300);
+    --tw-prose-pre-bg: var(--color-code-bg);
+    --tw-prose-th-borders: var(--color-foreground-100);
+    --tw-prose-td-borders: var(--color-foreground-100);
+
+    --tw-prose-invert-body: var(--color-foreground-600);
+    --tw-prose-invert-headings: var(--color-foreground-800);
+    --tw-prose-invert-lead: var(--color-foreground-600);
+    --tw-prose-invert-links: var(--color-foreground-600);
+    --tw-prose-invert-bold: var(--color-foreground-800);
+    --tw-prose-invert-counters: var(--color-foreground-400);
+    --tw-prose-invert-bullets: var(--color-d-accent);
+    --tw-prose-invert-hr: var(--color-foreground-100);
+    --tw-prose-invert-quotes: var(--color-foreground-400);
+    --tw-prose-invert-quote-borders: var(--color-foreground-50);
+    --tw-prose-invert-captions: var(--color-foreground-300);
+    --tw-prose-invert-kbd: var(--color-foreground-800);
+    --tw-prose-invert-kbd-shadows: var(--color-foreground-800);
+    --tw-prose-invert-code: var(--color-foreground-800);
+    --tw-prose-invert-pre-code: var(--color-foreground-300);
+    --tw-prose-invert-pre-bg: var(--color-code-bg-dark);
+    --tw-prose-invert-th-borders: var(--color-foreground-100);
+    --tw-prose-invert-td-borders: var(--color-foreground-100);
+  }
+  .overflow-hidden {
+    -webkit-mask-image: -webkit-radial-gradient(white, black);
+  }
+}
