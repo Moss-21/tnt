@@ -28,3 +28,44 @@
   --color-l-accent: #9DA9A0; /* light theme */
   --color-d-accent: #9DA9A0; /* dark theme  */
 }
+
+/* 404 */
+.not-found {
+    font-family: var(--font-heading);
+    display: flex;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background-color: oklch(from var(--color-background) calc(l - 0.025) c h);
+  }
+  :root[data-theme="dark"] .not-found {
+    background-color: oklch(from var(--color-background) calc(l + 0.025) c h);
+  }
+  .not-found-inner {
+    text-align: center;
+  }
+  .not-found-title {
+    margin-bottom: 1rem;
+    font-size: var(--font-size-6xl);
+    line-height: var(--line-height-none);
+    font-weight: var(--font-weight-bold);
+    color: var(--color-l-accent);
+  }
+  .not-found-subtitle {
+    margin-bottom: 2rem;
+    font-size: var(--font-size-xl);
+    line-height: var(--line-height-tight);
+    color: var(--color-l-accent);
+  }
+  .not-found-description {
+    color: var(--color-l-accent);
+  }
+  .not-found-hint {
+    margin-top: 1rem;
+    font-size: var(--font-size-sm);
+    line-height: var(--line-height-tight);
+    color: var(--color-l-accent);
+  }
+  .not-found-hint a {
+    text-decoration: underline;
+  }
