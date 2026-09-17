@@ -5,7 +5,7 @@ tags:
 ---
 
 > [!infobox]+ Collapsible Infobox
-> # Name
+> # Hank
 > ![[Image.png|cover hsmall]]
 > ###### **Personal Info**
 > |  |  |

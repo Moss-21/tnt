@@ -4,13 +4,13 @@ tags:
   - Pyro
 ---
 > [!infobox]+ Collapsible Infobox
-> # Name
+> # Pyro
 > ![[Image.png|cover hsmall]]
 > ###### **Personal Info**
 > |  |  |
 > | ---- | ---- |
 > | Race | Testing |
-> | Age | Testing |
+> | Age | 27 |
 > | Class | Barbarian |
 > | SubClass | test |
 > | Home | Testing |

@@ -4,19 +4,20 @@ tags:
   - Allora
 ---
 > [!infobox]+ Collapsible Infobox
-> # Name
+> # Allora
 > ![[Image.png|cover hsmall]]
 > ###### **Personal Info**
 > |  |  |
 > | ---- | ---- |
 > | Race | type of elf |
-> | Age | Testing |
-> | Pronouns | She/Her |
+> | Age | ??? |
 > | Class | Ranger |
-> | Home | Testing |
+> | Subclass | ??? |
+> | Home | ??? |
 > 
 > ###### Other
 > |  |  |
 > | ---- | ---- |
-> | Alignment | Testing |
-> | Last seen | Testing |
+> | Alignment | ??? |
+> | Height | 2"7 |
+> | Pronouns | She/Her |

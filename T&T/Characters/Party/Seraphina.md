@@ -4,7 +4,7 @@ tags:
   - Seraphina
 ---
 > [!infobox]+ Collapsible Infobox
-> # Name
+> # Seraphina
 > ![[Image.png|cover hsmall]]
 > ###### **Personal Info**
 > |  |  |
@@ -21,5 +21,5 @@ tags:
 > | ---- | ---- |
 > | Alignment | Testing |
 > | Height | test |
-> | Pronouns | Testing |
+> | Pronouns | She/Her |
 > | Last seen | Testing |

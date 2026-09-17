@@ -4,7 +4,7 @@ tags:
   - Irdar
 ---
 > [!infobox]+ Collapsible Infobox
-> # Name
+> # Irdar
 > ![[Image.png|cover hsmall]]
 > ###### **Personal Info**
 > |  |  |
