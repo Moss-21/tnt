@@ -12,10 +12,10 @@
 
 :root {
   --callout-note-color:    oklch(0.2965 0.0134 239.04); /* blue   */
-  --callout-tip-color:     oklch(0.2965 0.0134 239.04); /* cyan   */
+  --callout-tip-color:     oklch(0.8299 0.0405 86.05); /* cyan   */
   --callout-success-color: oklch(0.723 0.219 142); /* green  */
   --callout-warning-color: oklch(0.705 0.191 55);  /* orange */
   --callout-danger-color:  oklch(0.627 0.258 29);  /* red    */
   --callout-example-color: oklch(0.627 0.265 303); /* purple */
-  --callout-quote-color:   oklch(0.2965 0.0134 239.04); /* zinc   */
+  --callout-quote-color:   oklch(0.8299 0.0405 86.05); /* zinc   */
 }
