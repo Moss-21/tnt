@@ -69,3 +69,10 @@
   .not-found-hint a {
     text-decoration: underline;
   }
+
+/* header date metadata */
+.page-header-date {
+    display: flex;
+    align-items: center;
+    color: var(--color-d-accent);
+  }
