@@ -29,6 +29,20 @@
   --color-d-accent: #9DA9A0; /* dark theme  */
 }
 
+/* mobile nav button */
+.site-subnav-menu-button {
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.25rem;
+    color: var(--color-d-accent);
+    transition: color 150ms;
+
+    &:hover {
+      color: var(--color-foreground-900);
+    }
+
 /* 404 */
 .not-found {
     font-family: var(--font-heading);
