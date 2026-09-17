@@ -23,7 +23,7 @@
   --callout-quote-color:   oklch(0.8299 0.0405 86.05); /* zinc   */
 }
 
-/* bullet points ??? */
+/* bullet points ??? doesnt work */
 .rendered-mdx ul.contains-task-list {
     list-style-type: none;
     color: var(--color-d-accent);
@@ -98,7 +98,7 @@
     color: var(--color-d-accent);
   }
 
-/* idk what this is but its got the bullet points */
+/* idk what this is but its got the bullet points (doesnt work) */
 .prose {
     --tw-prose-body: var(--color-foreground-600);
     --tw-prose-headings: var(--color-foreground-800);
