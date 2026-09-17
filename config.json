@@ -2,3 +2,11 @@
 {
   "showKnowledgeGraph": true
 }
+giscus.repo
+{
+  "giscus": {
+    "repo": "Moss-21/tnt-comments",
+    "repoId": "R_kgDOUfViOw",
+    "categoryId": "DIC_kwDOUfViO84DF1WU"
+  }
+}
