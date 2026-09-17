@@ -6,6 +6,9 @@
   /* Dark theme */
   --color-d-background: #2E383C;
   --color-d-foreground: #D3C6AA;
+
+  --color-l-accent: #9DA9A0; /* light theme */
+  --color-d-accent: #9DA9A0; /* dark theme  */
 }
 
 /* callout stuff */
