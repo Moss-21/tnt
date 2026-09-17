@@ -1,7 +1,7 @@
 :tnt {
   /* Light theme */
-  --color-l-background: #0000;
-  --color-l-foreground: #374151;
+  --color-l-background: #000000;
+  --color-l-foreground: #000000;
 
   /* Dark theme */
   --color-d-background: #0f0f0f;
