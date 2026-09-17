@@ -6,6 +6,9 @@
   /* Dark theme */
   --color-d-background: #2E383C;
   --color-d-foreground: #D3C6AA;
+
+  --color-l-accent: #9DA9A0; /* light theme */
+  --color-d-accent: #9DA9A0; /* dark theme  */
 }
 
 /* callout stuff */
@@ -19,3 +22,72 @@
   --callout-example-color: oklch(0.627 0.265 303); /* purple */
   --callout-quote-color:   oklch(0.8299 0.0405 86.05); /* zinc   */
 }
+
+/* accents */
+:root {
+  --color-l-accent: #9DA9A0; /* light theme */
+  --color-d-accent: #9DA9A0; /* dark theme  */
+}
+
+/* mobile nav button */
+.site-subnav-menu-button {
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.25rem;
+    color: var(--color-d-accent);
+    transition: color 150ms;
+
+    &:hover {
+      color: var(--color-foreground-900);
+    }
+  }
+
+/* 404 */
+.not-found {
+    font-family: var(--font-heading);
+    display: flex;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background-color: oklch(from var(--color-background) calc(l - 0.025) c h);
+  }
+  :root[data-theme="dark"] .not-found {
+    background-color: oklch(from var(--color-background) calc(l + 0.025) c h);
+  }
+  .not-found-inner {
+    text-align: center;
+  }
+  .not-found-title {
+    margin-bottom: 1rem;
+    font-size: var(--font-size-6xl);
+    line-height: var(--line-height-none);
+    font-weight: var(--font-weight-bold);
+    color: var(--color-l-accent);
+  }
+  .not-found-subtitle {
+    margin-bottom: 2rem;
+    font-size: var(--font-size-xl);
+    line-height: var(--line-height-tight);
+    color: var(--color-l-accent);
+  }
+  .not-found-description {
+    color: var(--color-l-accent);
+  }
+  .not-found-hint {
+    margin-top: 1rem;
+    font-size: var(--font-size-sm);
+    line-height: var(--line-height-tight);
+    color: var(--color-l-accent);
+  }
+  .not-found-hint a {
+    text-decoration: underline;
+  }
+
+/* header date metadata */
+.page-header-date {
+    display: flex;
+    align-items: center;
+    color: var(--color-d-accent);
+  }
