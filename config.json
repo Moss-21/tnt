@@ -2,10 +2,3 @@
 {
   "showKnowledgeGraph": true
 }
-
-{
-  "showComments": true,
-  "giscus": {
-    "theme": "transparent_dark",
-  }
-}
