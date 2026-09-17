@@ -11,7 +11,7 @@
 /* callout stuff */
 
 :root {
-  --callout-note-color:    oklch(0.2965 0.0134 239.04); /* blue   */
+  --callout-note-color:    oklch(0.6014 0.0214 140.48); /* blue   */
   --callout-tip-color:     oklch(0.8299 0.0405 86.05); /* cyan   */
   --callout-success-color: oklch(0.723 0.219 142); /* green  */
   --callout-warning-color: oklch(0.705 0.191 55);  /* orange */
