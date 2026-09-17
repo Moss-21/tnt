@@ -1,11 +1,10 @@
 ---
 tags:
   - Location
-dg-publish: true
 ---
 > [!infobox]+ Collapsible Infobox
 > # Name
-> ![[Image.png|cover hsmall]]
+> !Image.png|cover hsmall]]
 > ###### **Geography**
 > |  |  |
 > | ---- | ---- |
@@ -17,7 +16,7 @@ dg-publish: true
 > |  |  |
 > | ---- | ---- |
 > | Government Type | Testing |
-> | Ruler | Testing |
+> | Ruler | [[Lolth]] |
 > | Defense | Testing |
 
 **Residents**
@@ -26,3 +25,4 @@ dg-publish: true
 [[Outpost]]
 
 named this because rumors say you can hear the wailings of the fallen at night / haunted
+tons of spiders

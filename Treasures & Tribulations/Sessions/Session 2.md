@@ -2,7 +2,6 @@
 tags:
   - Session
 date: 08/17/2026
-dg-publish: true
 ---
 COMBAT
 - [[Son of Tiamat]] is charging up a burning attack
@@ -23,19 +22,19 @@ COMBAT
         - While hugging [[Son of Tiamat]] says he ”feels something more than just fluff“ and that he’ll “ find out what’s is you some day”
 - [[Allora]] is doing magic stuff
 
-The big egg is [[Loth]]
+The big egg is [[Lolth]]
 Egg is soft
-[[Tiamat]] and [[Loth]] hate each other
+[[Tiamat]] and [[Lolth]] hate each other
 
-- [[Pyro]]’s shadow wiggles
-    - Someone comes out of [[Pyro]]’s shadow and yells “[[Rowan]]!”
-        - [[Rowan]] is [[Son of Tiamat]]
+- [[pyro]]’s shadow wiggles
+    - Someone comes out of [[Pyro]]’s shadow and yells “[[Son of Tiamat|Rowan]]!”
+        - [[Son of Tiamat|Rowan]] is [[Son of Tiamat]]
         - [[Riciamin]] pulls [[Haleer|another man]] out of [[Pyro]]’s shadow
     - [[Riciamin]] tells [[Pyro]] & [[Allora]] 
     - [[Riciamin]] & [[Haleer]] join the fight
 - Red dragon blows us all up
     - [[Bahumbug]], [[Irdar]], & [[Seraphina]] are downed
-- [[Bahumbug]] uses a spell
+- [[Bahumbug]] uses [[tales from beyond]]
     - Magician appears and teleports [[Riciamin]] to [[Allora]]
 Combat ended
 - party gets money and gems

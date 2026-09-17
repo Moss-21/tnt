@@ -1,27 +1,26 @@
 ---
 tags:
-  - Religion
-  - Pyro
+  - Location
 ---
 > [!infobox]+ Collapsible Infobox
-> # Name
+> # Kaleshdar
 > !Image.png|cover hsmall]]
-> ###### **Info**
+> ###### **Geography**
 > |  |  |
 > | ---- | ---- |
-> | Type | Cult |
+> | Type | Village |
 > | Size | Testing |
 > | Region | Testing |
 > 
 > ###### **Politics**
 > |  |  |
 > | ---- | ---- |
-> | God | Tiamat |
+> | Government Type | Testing |
+> | Ruler | Testing |
+> | Defense | Testing |
 
-
-# Followers
-[[Son of Tiamat]]
-# Beliefs
-
+# Residents
+[[Riciamin]]
+[[Haleer]]
 # Places
-[[Outpost]]
+[[Adventurer's Guild]]
