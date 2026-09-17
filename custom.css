@@ -23,6 +23,12 @@
   --callout-quote-color:   oklch(0.8299 0.0405 86.05); /* zinc   */
 }
 
+/* bullet points ??? */
+.rendered-mdx ul.contains-task-list {
+    list-style-type: none;
+    color: var(--color-d-accent);
+  }
+
 /* accents */
 :root {
   --color-l-accent: #9DA9A0; /* light theme */
