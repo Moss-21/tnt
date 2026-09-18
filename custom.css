@@ -21,6 +21,9 @@
   --callout-danger-color:  oklch(0.627 0.258 29);  /* red    */
   --callout-example-color: oklch(0.627 0.265 303); /* purple */
   --callout-quote-color:   oklch(0.8299 0.0405 86.05); /* zinc   */
+  p {
+    color: --color-l-background;
+  {
 }
 
 /* bullet points ??? doesnt work */
