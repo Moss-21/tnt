@@ -27,7 +27,7 @@
 :root {
   .rendered-mdx ul.contains-task-list {
       list-style-type: none;
-      color: var(--color-d-accent);
+      color: var(--color-l-foreground);
   }
 }
 
