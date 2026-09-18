@@ -27,7 +27,7 @@
 :root {
   .rendered-mdx ul.contains-task-list {
       list-style-type: none;
-      color: var(--color-l-foreground);
+      color: var(--color-l-background);
   }
 }
 
@@ -109,7 +109,7 @@
     --tw-prose-links: var(--color-foreground-600);
     --tw-prose-bold: var(--color-foreground-800);
     --tw-prose-counters: var(--color-foreground-400);
-    --tw-prose-bullets: var(--color-foreground);
+    --tw-prose-bullets: var(--color-l-background);
     --tw-prose-hr: var(--color-foreground-100);
     --tw-prose-quotes: var(--color-foreground-400);
     --tw-prose-quote-borders: var(--color-foreground-50);
@@ -128,7 +128,7 @@
     --tw-prose-invert-links: var(--color-foreground-600);
     --tw-prose-invert-bold: var(--color-foreground-800);
     --tw-prose-invert-counters: var(--color-foreground-400);
-    --tw-prose-invert-bullets: var(--color-foreground);
+    --tw-prose-invert-bullets: var(--color-l-background);
     --tw-prose-invert-hr: var(--color-foreground-100);
     --tw-prose-invert-quotes: var(--color-foreground-400);
     --tw-prose-invert-quote-borders: var(--color-foreground-50);
