@@ -24,10 +24,12 @@
 }
 
 /* bullet points ??? doesnt work */
-.rendered-mdx ul.contains-task-list {
-    list-style-type: none;
-    color: var(--color-d-accent);
+:root {
+  .rendered-mdx ul.contains-task-list {
+      list-style-type: none;
+      color: var(--color-d-accent);
   }
+}
 
 /* accents */
 :root {
